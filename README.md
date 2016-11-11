@@ -1,7 +1,7 @@
 # Table of Contents
 
 1. [Summary] (README.md#summary)
-2. [Description of Files and Functions] (README.md#description)
+2. [Description of Files and Functions] (README.md#description-of-files-and-functions)
 3. [Thoughts] (README.md#thoughts)
 
 # Summary
