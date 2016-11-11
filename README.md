@@ -29,22 +29,22 @@ But the time complexity is O(n^2), space complexity is O(n).
 
 ##Feature 3
 
-##Other considerations and optional features
 
 [Back to Table of Contents] (README.md#table-of-contents)
 
 # Description of Files and Functions
-[Description of Files and Functions] (README.md#description)
-
-
 ##Files
-
+* Main.java
+* Feature.java
+* FeatureTest.java
+* ReadData.java
+* ReadDataTest.java
+* UserGraph.java
 
 ##Functions
 
 [Back to Table of Contents] (README.md#table-of-contents)
 
 # Thoughts
-[Thoughts] (README.md#thoughts)
 
 [Back to Table of Contents] (README.md#table-of-contents)
