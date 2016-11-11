@@ -1,10 +1,11 @@
 # Table of Contents
 
 1. [Summary] (README.md#summary)
-2. [Details of Implementation] (README.md#details-of-implementation)
-3. [Description of Data] (README.md#description-of-data)
+2. [Description of Files and Functions] (README.md#Description-of-Files-and-Functions)
+3. [Description of Functions] (README.md#description-of-data)
 
 ##Summary
+[Summary] (README.md#summary)
 
 This project is for insight engineering program coding challenge. Details at: [InsightDataScience/digital-wallet] (https://github.com/InsightDataScience/digital-wallet).
 This project has 3 features:
@@ -28,20 +29,19 @@ But the time complexity is O(n^2), space complexity is O(n).
 
 ###Other considerations and optional features
 
-##Details of implementation
+[Back to Table of Contents] (README.md#table-of-contents)
+##Description of Files and Functions
+
+[Description of Files and Functions] (README.md#Description-of-Files-and-Functions)
+
+###Files
+
+
+###Functions
 
 [Back to Table of Contents] (README.md#table-of-contents)
+##Thoughts
 
-###Input
+[Thoughts] (README.md#Thoughts)
 
-
-###Output
-
-
-##Description of Data
-
-[Back to Table of Contents] (README.md#table-of-contents)
-
-
-##Writing clean, scalable and well-tested code
 [Back to Table of Contents] (README.md#table-of-contents)
