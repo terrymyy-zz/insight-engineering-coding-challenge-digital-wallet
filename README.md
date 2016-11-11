@@ -46,5 +46,6 @@ But the time complexity is O(n^2), space complexity is O(n). It may takes 10min~
 [Back to Table of Contents] (README.md#table-of-contents)
 
 # Thoughts
+I have considered using linked list, binary tree, binary search tree, graph to store data. If use graph, the graph would be 70k * 70k matrix, which would exceed momery. So I finally choose HashMap, because it's fast in search, insert, delete and can hold large data set.
 
 [Back to Table of Contents] (README.md#table-of-contents)
