@@ -1,8 +1,8 @@
 # Table of Contents
 
 1. [Summary] (README.md#summary)
-2. [Description of Files and Functions] (README.md#Description-of-Files-and-Functions)
-3. [Thoughts] (README.md#Thoughts)
+2. [Description of Files and Functions] (README.md#description)
+3. [Thoughts] (README.md#thoughts)
 
 # Summary
 
@@ -34,6 +34,7 @@ But the time complexity is O(n^2), space complexity is O(n).
 [Back to Table of Contents] (README.md#table-of-contents)
 
 # Description of Files and Functions
+[Description of Files and Functions] (README.md#description)
 
 
 ##Files
@@ -44,5 +45,6 @@ But the time complexity is O(n^2), space complexity is O(n).
 [Back to Table of Contents] (README.md#table-of-contents)
 
 # Thoughts
+[Thoughts] (README.md#thoughts)
 
 [Back to Table of Contents] (README.md#table-of-contents)
