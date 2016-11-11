@@ -25,7 +25,7 @@ Feature 2 is an extension of Feature 1. Not only the "1st-order friends" are sea
 
 Data structure is the same, but the algoritm is more complicated. For each "1st-order friends" of id1, search their friends to find if there is id2. In addition, circumstances like "4-1-5", which might be missing because of the storing rule mentioned above, are also considered.
 
-But the time complexity is O(n^2), space complexity is O(n).
+But the time complexity is O(n^2), space complexity is O(n). It may takes 10min~30min to deal with 2,972,242 transactions which means less than 0.6ms for each transaction.
 
 ##Feature 3
 
