@@ -2,10 +2,9 @@
 
 1. [Summary] (README.md#summary)
 2. [Description of Files and Functions] (README.md#Description-of-Files-and-Functions)
-3. [Description of Functions] (README.md#description-of-data)
+3. [Thoughts] (README.md#Thoughts)
 
 ##Summary
-[Summary] (README.md#summary)
 
 This project is for insight engineering program coding challenge. Details at: [InsightDataScience/digital-wallet] (https://github.com/InsightDataScience/digital-wallet).
 This project has 3 features:
@@ -32,7 +31,6 @@ But the time complexity is O(n^2), space complexity is O(n).
 [Back to Table of Contents] (README.md#table-of-contents)
 ##Description of Files and Functions
 
-[Description of Files and Functions] (README.md#Description-of-Files-and-Functions)
 
 ###Files
 
@@ -41,7 +39,5 @@ But the time complexity is O(n^2), space complexity is O(n).
 
 [Back to Table of Contents] (README.md#table-of-contents)
 ##Thoughts
-
-[Thoughts] (README.md#Thoughts)
 
 [Back to Table of Contents] (README.md#table-of-contents)
